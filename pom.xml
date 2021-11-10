@@ -8,6 +8,10 @@
 
     <name>petclinic</name>
     <packaging>war</packaging>
+    
+    <properties>
+	<sonar.projectKey>java-sonar-runner-simple</sonar.projectKey>
+    </properties>
 
     <properties>
 
